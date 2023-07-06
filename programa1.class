@@ -1,0 +1,27 @@
+public class Programa_1
+{
+	public static void main(String[] args) {
+	    
+	    String nome= "cláudio";
+	    String nome_corrigido=nome.toUpperCase();
+		System.out.println(nome_corrigido);
+		
+		boolean teste1= true;
+		boolean teste2= false;
+		
+		System.out.println(teste1 && teste2);   /*& e || são os operadores lógidocos do Java */
+		
+		System.out.println(teste1 || teste2);
+		
+		System.out.println(nome.length());/* length() - quando associada a uma String, retorna a qtd de caracteres*/
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
+
