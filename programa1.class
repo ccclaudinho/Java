@@ -15,13 +15,7 @@ public class Programa_1
 		
 		System.out.println(nome.length());/* length() - quando associada a uma String, retorna a qtd de caracteres*/
 		
-		
-		
-		
-		
-		
-		
-		
+				
 	}
 }
 
